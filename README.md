@@ -2,9 +2,6 @@
 <h3 align="center">A Software Engineer @Wonderbiz Technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunals495&label=Profile%20views&color=0e75b6&style=flat" alt="kunals495" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunals495" alt="kunals495" /></a> </p>
 
 - 🔭 I’m currently working on [Asset Hierarchy Management Saas](https://github.com/kunals495/Asset-Hierarchy-Web-API)
 
