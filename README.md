@@ -1,4 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunals495&label=Profile%20views&color=0e75b6&style=flat" alt="kunals495" /> </p>
+<img width="1000" height="200" alt="header_1" src="https://github.com/user-attachments/assets/17f1b08b-9d26-465a-afa2-271e34fbc47e" />
+
 <h1 align="center">Hi 👋, I'm Kunal Singh</h1>
 
 <h3 align="center">A Software Engineer @Wonderbiz Technologies</h3>
